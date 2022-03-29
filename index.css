@@ -1,0 +1,36 @@
+body
+{
+	background: linear-gradient(to right top, #fffb00, #51ff00, #ff00f2, #008cff, #f80375,white,violet,darkblue);
+}
+
+	.login_div1 , .login_div2
+	{
+		background: rgb(255, 255, 255);
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: rgb(255, 255, 255);
+border-radius: 10px;
+border-top: 10px solid #ff0151;
+padding: 10px;
+float: none;
+text-align: left;
+}
